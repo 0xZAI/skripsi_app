@@ -1,0 +1,32 @@
+name: skripsi_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_native_splash: ^2.4.3
+  geocoding: ^3.0.0
+  geolocator: ^13.0.2
+  http: ^1.2.2
+  path: ^1.9.0
+  path_provider: ^2.1.5
+  sqflite: ^2.4.1
+  url_launcher: ^6.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/database/skripsi.db
+    - assets/background.jpg
+    - assets/splash.png
