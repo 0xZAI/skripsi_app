@@ -4,7 +4,7 @@ import 'package:http/http.dart' as http;
 Future<Map<String, double>> getDistanceAndDurationFromORS(
     double originLat, double originLng, double destLat, double destLng) async {
   const String apiKey =
-      '5b3ce3597851110001cf6248e9f85fd256f449c085c6875aa9c29a04'; // Ganti dengan API Key Anda
+      '**************'; 
   const String endpoint =
       'https://api.openrouteservice.org/v2/matrix/driving-car';
 
