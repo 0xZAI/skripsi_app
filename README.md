@@ -93,7 +93,7 @@ Aplikasi membantu pengguna menemukan fasilitas kesehatan terdekat dan paling ses
 
 ## Struktur Proyek
 skripsi_app/
-├─ android/ # konfigurasi platform Android
+├─ android/ # konfigurasi platform Android .
 ├─ ios/ # konfigurasi platform iOS
 ├─ web/ # konfigurasi platform Web
 ├─ linux/ # Desktop (Linux)
