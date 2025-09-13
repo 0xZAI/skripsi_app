@@ -93,18 +93,17 @@ Aplikasi membantu pengguna menemukan fasilitas kesehatan terdekat dan paling ses
 
 ## Struktur Proyek
 skripsi_app/
-├─ android/ # konfigurasi platform Android .
-├─ ios/ # konfigurasi platform iOS
-├─ web/ # konfigurasi platform Web
-├─ linux/ # Desktop (Linux)
-├─ macos/ # Desktop (macOS)
-├─ windows/ # Desktop (Windows)
-├─ assets/ # aset statis (ikon, font, ilustrasi, dsb.)
-├─ lib/ # source code utama (UI, routing, services, utils)
-├─ native_splash.yaml # konfigurasi splash screen native (opsional)
-├─ analysis_options.yaml # aturan linting/analisis Dart
-├─ pubspec.yaml # dependency & konfigurasi Flutter
-└─ README.md
+├─ android/ # konfigurasi platform Android\
+├─ ios/ # konfigurasi platform iOS\
+├─ web/ # konfigurasi platform Web\
+├─ linux/ # Desktop (Linux)\
+├─ macos/ # Desktop (macOS)\
+├─ windows/ # Desktop (Windows)\
+├─ assets/ # aset statis (ikon, font, ilustrasi, dsb.)\
+├─ lib/ # source code utama (UI, routing, services, utils)\
+├─ analysis_options.yaml # aturan linting/analisis Dart\
+├─ pubspec.yaml # dependency & konfigurasi Flutter\
+└─ README.md\
 
 ---
 
